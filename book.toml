@@ -2,3 +2,10 @@
 title = "IP Route Life"
 authors = ["DeVaughn Rushing"]
 language = "en"
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/drushing15?tab=repositories"
+edit-url-template = "https://github.com/drushing15/ip-routelife/edit/main/src/{path}"
+site-url = "/"
+cname = "ip-routelife.com"
