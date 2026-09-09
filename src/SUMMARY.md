@@ -7,5 +7,4 @@
 
 # Routing
 
-- [OSPF]
-    -[Automated OSPF Multi Area](ospf-automated.md)
+- [Automated OSPF Multi Area](ospf-automated.md)
